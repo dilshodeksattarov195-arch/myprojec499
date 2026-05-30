@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesecrypt",
+        "uuid": 1817857,
+        "checksum": "c62fo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
